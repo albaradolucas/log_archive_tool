@@ -2,6 +2,8 @@
 
 Este es un proyecto de herramienta de línea de comandos diseñada para comprimir archivos de registro y almacenarlos en un nuevo directorio. La herramienta acepta un directorio de registros como argumento, comprime los archivos de registro en un archivo tar.gz y guarda un registro con la fecha y hora de la operación.
 
+https://github.com/albaradolucas/log_archive_tool
+
 ## Requisitos
 
 - La herramienta debe ejecutarse desde la línea de comandos.
